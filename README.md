@@ -1,7 +1,7 @@
 # CPP
 
 1. Learn Only Basic (Dont Dug Much)
-2.
+2. 
 
 ## Setup
 + Vscode Setup
